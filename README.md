@@ -1,6 +1,6 @@
 # 🗓️ Somos Sessori 🗓️
 
-#### Uma aplicação web responsiva desenvolvida em React, projetada para otimizar a gestão de reservas de espaços educacionais em instituições acadêmicas. Nossa missão é facilitar o processo de agendamento, garantir a integridade das reservas e promover uma comunicação eficiente entre administradores, professores e alunos.
+#### Uma aplicação web desenvolvida em React, projetada para otimizar a gestão de reservas de espaços educacionais em instituições acadêmicas. Nossa missão é facilitar o processo de agendamento, garantir a integridade das reservas e promover uma comunicação eficiente entre administradores, professores e alunos.
 
 #### 🔑 Agendamento de espaços: Reserve salas de aula, laboratórios e outros ambientes educacionais de forma rápida e prática.
 #### 🛠️ Gerenciamento de recursos: Controle o uso de equipamentos e materiais disponíveis nos espaços.
